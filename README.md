@@ -23,7 +23,7 @@ When an AI agent modifies Godot scenes (.tscn) and scripts (.gd), it can't see t
 ## Install
 
 ```bash
-git clone https://github.com/TJ-Dev-Studio/godot-preview.git
+git clone https://github.com/sillypad-games/godot-preview.git
 cd godot-preview
 chmod +x godot_preview.sh
 
